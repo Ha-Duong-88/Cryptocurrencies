@@ -1,5 +1,5 @@
 # Cryptocurrencies
-Big Data, Machine Learning (Supervised and Unsupervised Learning)
+Machine Learning (Supervised and Unsupervised Learning)
 
 # Project Overview
 The objective of this project was to create an analysis for clients at an investment bank who are preparing to invest in cryptocurrenicy market using Unsupervised machine learning to process data, cluster, reduce dimensions and principal components by applying Principal Component Analysis (PCA). The analysis entailed creating a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
