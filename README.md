@@ -19,7 +19,7 @@ kmeans_unsupervised_learning.png![kmeans_unsupervised_learning](https://user-ima
 
 
 
-plot_3d.png![plot_3d](https://user-images.githubusercontent.com/80140082/125209148-c2968100-e24b-11eb-8092-4fc8c7d88951.png)
+plot_3d.png![plot_3d](https://user-images.githubusercontent.com/80140082/125292861-b952f600-e2d7-11eb-8611-ca2102ff6205.png)
 
 
 
