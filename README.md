@@ -26,6 +26,6 @@ plot_3d.png![plot_3d](https://user-images.githubusercontent.com/80140082/1252091
 tradeable_currencies.png![tradeable_currencies](https://user-images.githubusercontent.com/80140082/125209214-3173da00-e24c-11eb-8181-e82993be3cfc.png)
 
 
+scatter_plot.png![scatter_plot](https://user-images.githubusercontent.com/80140082/125292270-274aed80-e2d7-11eb-9e95-83720242e44f.png)
 
-scatter_plot.png![scatter_plot](https://user-images.githubusercontent.com/80140082/125209272-80217400-e24c-11eb-8e56-834d3f71587c.png)
 
